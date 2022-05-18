@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PreetiTangri
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Android jetpack 
-- 📫 How to reach me on preeti.kaur@arq.group
+- 🌱 Currently learning Android jetpack 
+- 📫 Reach out to me on preeti.kaur@arq.group
 
 <!---
 PreetiTangri/PreetiTangri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
